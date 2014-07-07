@@ -14,3 +14,5 @@ Example:
 	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 	  })();
 	</script>
+
+In the stats.php file I use a packer from http://joliclic.free.fr/php/javascript-packer/en/
