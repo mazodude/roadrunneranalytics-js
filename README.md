@@ -16,3 +16,5 @@ Example:
 	</script>
 
 In the stats.php file I use a packer from http://joliclic.free.fr/php/javascript-packer/en/
+
+Caching done with my PHP class here https://github.com/mazodude/roadrunnercache
