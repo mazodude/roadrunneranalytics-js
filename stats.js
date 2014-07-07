@@ -50,7 +50,7 @@ window.onload = function(){
 	var userLang;
 	var currURL;
 	var currDate = new Date();
-	var submitURL = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.mattandceri.info/dish.php';
+	var submitURL = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'example.com/stats.php';
 
 	//Call the script
 	getInfo();
